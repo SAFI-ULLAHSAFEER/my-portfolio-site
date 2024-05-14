@@ -27090,12 +27090,12 @@ var _stylesCss = require("./styles.css");
     name: "Safi-ullah Safeer",
     title: "Computer Systems Engineer & Microsoft Learn Student Ambassador",
     email: "SAFIULLAH.SAFEER@studentambassadors.com",
-    gitHub: "https://github.com/SAFI-ULLAHSAFEER",
-    instagram: "https://www.instagram.com/safiullah_abbaxi",
-    linkedIn: "https://www.linkedin.com/in/safiullah-abbasi",
-    medium: "https://safi-ullahsafeer.medium.com/",
-    twitter: "",
-    youTube: "https://www.youtube.com/@safiullahabbasi4705"
+    gitHub: "SAFI-ULLAHSAFEER",
+    instagram: "safiullah_abbaxi",
+    linkedIn: "safiullah-abbasi",
+    medium: "safi-ullahsafeer",
+    twitter: " ",
+    youTube: "safiullahabbasi4705"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
