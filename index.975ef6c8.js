@@ -27094,7 +27094,7 @@ var _stylesCss = require("./styles.css");
     instagram: "https://www.instagram.com/safiullah_abbaxi",
     linkedIn: "https://www.linkedin.com/in/safiullah-abbasi",
     medium: "https://medium.com/@safi-ullahsafeer",
-    devto: "https://dev.to/safi-ullah ",
+    twitter: "",
     youTube: "https://youtube.com/@safiullahabbasi4705"
 };
 const primaryColor = "#4E567E";
